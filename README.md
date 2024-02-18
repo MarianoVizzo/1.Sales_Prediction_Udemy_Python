@@ -1,1 +1,2 @@
 # Python_Sales Prediction_Udemy
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhiNmlvbnd2NHE5YnFqajh1dzFzdngwYXdjMXZicjFoYXl5MXdxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0bSQ1lpUx3eODngpC/giphy.gif

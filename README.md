@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhiNmlvbnd2NHE5YnFqajh1dzFzdngwYXdjMXZicjFoYXl5MXdxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0bSQ1lpUx3eODngpC/giphy.gif" width="400" />
-    <h1 align="center"> PROYECTO: PREDICCIÓN DE VENTAS UTILIZANDO PYTHON </h1>
+    <h1 align="center"> PROJECT: UDEMY AND THE SUCCESS IN SALES OF ITS COURSES </h1>
 </div>
 
 

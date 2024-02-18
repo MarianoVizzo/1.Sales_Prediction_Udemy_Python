@@ -25,7 +25,8 @@
   
 ### B.2. Documentation Outline
 
-####**1. PROJECT STORYTELLING.**
+####1. PROJECT STORYTELLING.
+
 ####**2. DATASET INFORMATION.**
 ####**3. EXPLORATORY DATA ANALYSIS (EDA).**
 ####**4. DATA CLEANING AND TRANSFORMATION (Data Wrangling).**

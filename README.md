@@ -1,31 +1,22 @@
-# Python_Sales Prediction_Udemy
-
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhiNmlvbnd2NHE5YnFqajh1dzFzdngwYXdjMXZicjFoYXl5MXdxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0bSQ1lpUx3eODngpC/giphy.gif" width="400" />
-    <h1 align="center"> PROJECT: MySQL APPLIED TO A DATABASE </h1>
+    <h1 align="center"> PROYECTO: PREDICCIÓN DE VENTAS UTILIZANDO PYTHON </h1>
 </div>
 
-## A. CHARACTERISTICS OF THE "PREVIAJE" PROGRAM
 
-### CONTEXT OF THE "PREVIAJE" PROGRAM
-- The "Previaje" Program was created in 2021 to promote the recovery of the tourism sector affected by the restrictions imposed by the coronavirus pandemic.
-- "Previaje" is a tourism pre-sale program that reimburses 50% of the value of a trip in credit. People who purchase their tickets, excursions, or accommodations in advance will have a credit equivalent to 50% of their expenses to use during their vacations.
-- The "virtual money" that people receive is financed by the Argentine State to encourage tourism within the country.
 
-### OBJETIVES OF THE "PREVIAJE" PROGRAM
-1) Encourage travel during off-peak and shoulder seasons.
-2) Target individuals who typically do not have the opportunity to travel.
-3) Promote non-conventional tourist destinations.
+## A. DATASET INFORMATION
 
-## B. DATA SETS
-- The data was obtained from https://www.datos.gob.ar/dataset/turismo-previaje.
-- The data pertains to records corresponding to the editions of "Previaje" developed in 2021 and 2022
+### Context
 
-## C. PROJECT OBJECTIVES
-1) Apply MySQL to a database.
-2) Apply simple and complex queries to obtain relevant information.
-3) Analyze and interpret the results obtained.
+- Udemy (www.udemy.com) is an online marketplace that offers distance learning courses on various topics related to technology and business. The site operates as a marketplace where instructors can publish the courses they have developed and earn money when any Udemy student purchases them.
+- The number of Udemy courses has grown rapidly due to the success of distance education. However, the courses have had very diverse demands; some have been bestsellers while others have had so few students that they do not justify the investment made in them.
+
+### Project Objective
+**The ultimate goal is to predict which of the courses to be launched in 2023 will be bestsellers, through the analysis of data from courses published in Spanish between 2012 and 2022.**
+
+
 
 ## D. HOW TO READ/USE THE FILES?
 1) Use the database named "viajes_origen_destino_mes.csv".

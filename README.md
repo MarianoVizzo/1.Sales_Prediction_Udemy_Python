@@ -10,7 +10,7 @@
 
 ### A.1. CONTEXT
 
-- *Udemy* (www.udemy.com) is an online marketplace that offers distance learning courses on various topics related to technology and business. The site operates as a marketplace where instructors can publish the courses they have developed and earn money when any Udemy student purchases them.
+- *Udemy* (www.udemy.com) is an online marketplace that offers distance learning courses on various topics related to technology and business. The site operates as a marketplace where instructors can publish the courses they have developed and earn money when any *Udemy* student purchases them.
 - The number of *Udemy* courses has grown rapidly due to the success of distance education. However, the courses have had very diverse demands; some have been bestsellers while others have had so few students that they do not justify the investment made in them.
 
 ### A.2. PROJECT OBJETIVE

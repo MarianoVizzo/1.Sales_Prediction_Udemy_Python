@@ -46,3 +46,7 @@
 #### 4. NumPy
 #### 5. Scikit-learn
 #### 6. XGBoost
+
+### D. ABOUT THE PROJECT
+
+- This project was developed as part of my *Data Scientist* career at *Coderhouse* as the *Final Project*.

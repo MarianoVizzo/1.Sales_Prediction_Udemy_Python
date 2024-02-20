@@ -14,7 +14,7 @@
 - The number of *Udemy* courses has grown rapidly due to the success of distance education. However, the courses have had very diverse demands; some have been bestsellers while others have had so few students that they do not justify the investment made in them.
 
 ### A.2. PROJECT OBJETIVE
-**The ultimate goal is to predict which of the courses to be launched in 2023 will be *bestsellers*, through the analysis of data from courses published in Spanish between 2012 and 2022.**
+- **The ultimate goal is to predict which of the courses to be launched in 2023 will be *bestsellers*, through the analysis of data from courses published in Spanish between 2012 and 2022.**
 
 ## B. ABOUT THE PROJECT DOCUMENTATION 
 

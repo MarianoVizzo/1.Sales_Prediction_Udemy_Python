@@ -25,7 +25,7 @@
   
 ### B.2. DOCUMENTATION OUTLINE 
 
-#### 1. Project Storytelling.
+- #### 1. Project Storytelling.
 #### 2. Dataset Information.
 #### 3. Exploratory Data Analysis (EDA).
 #### 4. Data Cleaning and Transformation (Data Wrangling).

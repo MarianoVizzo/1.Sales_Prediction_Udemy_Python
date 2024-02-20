@@ -40,11 +40,12 @@
 ## C. LIBRARIES USED IN PYTHON 
 
 #### 1. Matplotlib
-
 `import matplotlib as mpl`
 `import matplotlib.pyplot as plt`
 
 #### 2. Seaborn
+ `import seaborn as sns`
+
 #### 3. Pandas
 #### 4. NumPy
 #### 5. Scikit-learn
@@ -55,7 +56,7 @@ Matplotlib:
 
 Seaborn:
 
-import seaborn as sns
+
 Pandas:
 
 import pandas as pd

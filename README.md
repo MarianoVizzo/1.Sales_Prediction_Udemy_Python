@@ -39,7 +39,7 @@
 
 ## C. LIBRARIES USED IN PYTHON 
 
-#### 1. Matplotlib
+#### 1. `Matplotlib`
 #### 2. Seaborn
 #### 3. Pandas
 #### 4. NumPy

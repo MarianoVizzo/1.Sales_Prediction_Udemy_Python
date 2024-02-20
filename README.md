@@ -25,26 +25,26 @@
   
 ### B.2. DOCUMENTATION OUTLINE 
 
-### 1. Project Storytelling.
-### 2. Dataset Information.
-### 3. Exploratory Data Analysis (EDA).
-### 4. Data Cleaning and Transformation (Data Wrangling).
-### 5. Connection with Public Apis.
-### 6. Classification and Regression Algorithms & Clustering Algorithms I.
-### 7. Clustering Algorithms II & Algorithms Selection and Model Training I.
-### 8. Algorithm Selection and Model Training II &  Model Validation - Metrics.
-### 9. Machine Learning Models Improvement I and II.
-### 10. Training with Multiple Models.
-### 12. Conclusions.
+#### 1. Project Storytelling.
+#### 2. Dataset Information.
+#### 3. Exploratory Data Analysis (EDA).
+#### 4. Data Cleaning and Transformation (Data Wrangling).
+#### 5. Connection with Public Apis.
+#### 6. Classification and Regression Algorithms & Clustering Algorithms I.
+#### 7. Clustering Algorithms II & Algorithms Selection and Model Training I.
+#### 8. Algorithm Selection and Model Training II &  Model Validation - Metrics.
+#### 9. Machine Learning Models Improvement I and II.
+#### 10. Training with Multiple Models.
+#### 12. Conclusions.
 
 ## C. LIBRARIES USED IN PYTHON 
 
-### 1. Matplotlib
-### 2. Seaborn
-### 3. Pandas
-### 4. NumPy
-### 5. Scikit-learn
-### 6. XGBoost
+#### 1. Matplotlib
+#### 2. Seaborn
+#### 3. Pandas
+#### 4. NumPy
+#### 5. Scikit-learn
+#### 6. XGBoost
 
 ## D. ABOUT THE PROJECT
 

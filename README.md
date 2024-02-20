@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhiNmlvbnd2NHE5YnFqajh1dzFzdngwYXdjMXZicjFoYXl5MXdxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0bSQ1lpUx3eODngpC/giphy.gif" width="300" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhiNmlvbnd2NHE5YnFqajh1dzFzdngwYXdjMXZicjFoYXl5MXdxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P0bSQ1lpUx3eODngpC/giphy.gif" width="400" />
     <h1 align="center"> PROJECT: UDEMY AND THE SUCCESS IN SALES OF ITS COURSES. PREDICTION USING PYTHON </h1>
 </div>
 
@@ -43,7 +43,7 @@
 
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zamFrZXEydjB5Znk1aXZmOHN2YzRkOXJ1aW84M2d2aTVkMWVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="400" />  
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zamFrZXEydjB5Znk1aXZmOHN2YzRkOXJ1aW84M2d2aTVkMWVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300" />  
 </div>
 
 #### 1. Pandas

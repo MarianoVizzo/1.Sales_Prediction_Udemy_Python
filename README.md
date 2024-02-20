@@ -39,12 +39,62 @@
 
 ## C. LIBRARIES USED IN PYTHON 
 
-#### 1. `Matplotlib`
+#### 1. Matplotlib
+
+`import matplotlib as mpl`
+`import matplotlib.pyplot as plt`
+
 #### 2. Seaborn
 #### 3. Pandas
 #### 4. NumPy
 #### 5. Scikit-learn
 #### 6. XGBoost
+
+Matplotlib:
+
+
+Seaborn:
+
+import seaborn as sns
+Pandas:
+
+import pandas as pd
+NumPy:
+
+import numpy as np
+Scikit-learn:
+
+import sklearn as sk
+from sklearn import model_selection
+from sklearn import ensemble
+from sklearn import metrics
+from sklearn import tree
+from sklearn.decomposition import PCA
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import GridSearchCV
+from sklearn.model_selection import RandomizedSearchCV
+from sklearn.experimental import enable_halving_search_cv
+from sklearn.model_selection import HalvingGridSearchCV
+from sklearn.model_selection import HalvingRandomSearchCV
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
+from sklearn.ensemble import VotingClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.feature_selection import SelectFromModel
+from sklearn.ensemble import StackingClassifier, BaggingClassifier, AdaBoostClassifier, VotingClassifier
+from sklearn.metrics import recall_score, precision_score, accuracy_score
+from sklearn.model_selection import LeaveOneOut, cross_val_score
+XGBoost:
+
+import xgboost as xgb
+
+
 
 ## D. ABOUT THE PROJECT
 

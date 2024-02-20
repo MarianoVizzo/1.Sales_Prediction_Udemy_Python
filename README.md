@@ -35,6 +35,7 @@
 #### 8. Algorithm Selection and Model Training II &  Model Validation - Metrics.
 #### 9. Machine Learning Models Improvement I and II.
 #### 10. Training with Multiple Models.
+#### 11. Boosting.
 #### 12. Conclusions.
 
 ## C. LIBRARIES USED IN PYTHON 
